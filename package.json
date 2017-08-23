@@ -4,7 +4,7 @@
   "author": "Matthew Origer <cli-squad@heroku.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KarateCowboy/remark-heroku-sample-code.git"
+    "url": "git+https://github.com/heroku/remark-heroku-sample-code.git"
   },
   "license": "ISC",
   "dependencies": {
@@ -30,7 +30,10 @@
   "description": "A remark-lint rule to make sure commands have sample code.",
   "main": "lib/index.js",
   "bugs": {
-    "url": "https://github.com/KarateCowboy/remark-heroku-sample-code/issues"
+    "url": "https://github.com/heroku/remark-heroku-sample-code/issues"
   },
-  "homepage": "https://github.com/KarateCowboy/remark-heroku-sample-code#readme"
+  "homepage": "https://github.com/heroku/remark-heroku-sample-code#readme",
+  "files": [
+    "lib"
+  ]
 }
